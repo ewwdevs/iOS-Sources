@@ -1,6 +1,6 @@
 import UIKit
 
-class ThemeControl: UIControl {
+class ThemeTouchControl: UIControl {
     
     private var didTapped: (() -> Void)?
 
